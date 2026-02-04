@@ -1,0 +1,17 @@
+Unreal and VS 2022 updates for 25/26
+
+UE 5.4.4 (LSV)
+
+Requires: Visual Studio Integration Tool plugin from Marketplace
+
+Visual Studio Installation options:
+
+Workloads - Game Dev with C++
+
+Optional section - VS Tools for Unreal Engine and HLSL
+
+Individual Components
+
+Game Dev with C++
+
+Under Optional - Ensure Windows 10 SDK 10.0.18362.0 is selected.
