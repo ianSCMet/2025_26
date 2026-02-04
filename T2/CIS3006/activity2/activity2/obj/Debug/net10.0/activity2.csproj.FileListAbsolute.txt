@@ -1,0 +1,15 @@
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\bin\Debug\net10.0\activity2.exe
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\bin\Debug\net10.0\activity2.deps.json
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\bin\Debug\net10.0\activity2.runtimeconfig.json
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\bin\Debug\net10.0\activity2.dll
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\bin\Debug\net10.0\activity2.pdb
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\activity2.AssemblyInfoInputs.cache
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\activity2.AssemblyInfo.cs
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\activity2.csproj.CoreCompileInputs.cache
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\activity2.sourcelink.json
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\activity2.dll
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\refint\activity2.dll
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\activity2.pdb
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\activity2.genruntimeconfig.cache
+C:\Ian\TEACHING_25_26\2025_26\T2\CIS3006\activity2\activity2\obj\Debug\net10.0\ref\activity2.dll
