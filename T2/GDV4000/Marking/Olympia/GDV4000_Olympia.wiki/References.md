@@ -1,0 +1,29 @@
+### References (Alphabetical)
+
+- **abandoned_childhood. (2015)** Sonic Ring Sound Effect. Available at: https://www.youtube.com/watch?v=_OyN4PhEr1M  
+- **Andersen, F., Danny, King, C.L. and Gunawan, A.A.S. (2021)** Audio influence on game atmosphere during various game events. *Procedia Computer Science*, 179, pp. 222–231.  
+- **Atsma, A. (n.d.)** Hades. *Theoi Greek Mythology*. Available at: https://www.theoi.com/Khthonios/Haides.html  
+- **AutumnPaige. (2020)** Hades. *Medium*. Available at: https://medium.com/@autumnpaige/hades-f22d2d0dde85  
+- **CreatorAssets. (2021)** 8-Bit Jump Sound Effect (Copyright Free). Available at: https://www.youtube.com/watch?v=Y8bSsRVr3Yg  
+- **Cyberwave-Orchestra. (2025)** Fantasy Game Sword Cut Sound Effect. Available at: https://pixabay.com/sound-effects/film-special-effects-fantasy-game-sword-cut-sound-effect-get-more-on-my-patreon-339824/  
+- **ElionnieHB. (2025)** Soul Calibur 2 based Spin Attack Sound Effect. Available at: https://ssbmtextures.com/characters/soul-calibur-2-based-spin-attack/  
+- **EmblemAdept. (2025)** Released: FREE Hoplite & Legionnaire sprites. Available at: https://emblemadept.itch.io/pixel-armor-pack-3-greece-rome/devlog/783566/released-free-hoplite-legionnaire-sprites  
+- **examination process (n.d.)** Available at: https://vimeo.com/434589645?fl=pl&fe=sh  
+- **Fandom. (2025)** Hades wiki – *Hermes*. Available at: https://hades.fandom.com/wiki/Hermes  
+- **Fandom. (2025)** Hades wiki – *Zeus*. Available at: https://hades.fandom.com/wiki/Zeus  
+- **freesound_community. (2021)** Game Over Arcade. Available at: https://pixabay.com/sound-effects/film-special-effects-game-over-arcade-6435/  
+- **freesound_community. (2021)** Game Start. Available at: https://pixabay.com/sound-effects/film-special-effects-game-start-6104/  
+- **Game. (n.d.)** Other policies. Available at: https://help.game.co.uk/support/solutions/articles/80001148351-guide-to-pegi-ratings#:~:text=As%20of%2030th%20July%202012,a%20game%20is%20suitable%20for  
+- **GameelutioN. (2020)** Evolution of Fatality Sound Effect (1992–2019). Available at: https://www.youtube.com/watch?v=_OyN4PhEr1M  
+- **Games Rating Authority. (n.d.)** Our process. Available at: https://gamesratingauthority.org.uk/RatingBoard/about-history#:~:text=The%20Games%20Rating%20Authority%20was,over%2030%20countries%20across%20Europe  
+- **HermesMercury. (n.d.)** Life story about Hermes. Available at: https://hermesmercury.weebly.com/life-story-about-hermesmercury.html  
+- **In2Greece. (n.d.)** Zeus – Greek Mythology. Available at: http://www.in2greece.com/english/historymyth/mythology/names/zeus.htm  
+- **Jonathan Cook. (2018)** Hermes the god of commerce. Available at: https://jonathanccook.medium.com/hermes-the-god-of-commerce-29acbf25d567  
+- **Myth dancer. (2014)** Bringing myths to the modern world. Available at: https://mythdancer.blogspot.com/2014/12/hermes-most-charming-thieving-scoundrel.html  
+- **pcgaming. (2015)** FNAF 3 purple guy's death mini-game. Available at: https://www.youtube.com/watch?v=g39qEM0REyY  
+- **Pinterest. (n.d.)** Pin by DiscoEpiscop on Background & architecture pixel art. Available at: https://ru.pinterest.com/pin/background-objects-pixel-art--331436853838893229/  
+- **Shutterstock. (n.d.)** Greece Pixel: Royalty-Free Illustrations. Available at: https://www.shutterstock.com/search/greece-pixel?image_type=illustration  
+- **Unity Technologies. (2020)** WebGL: Deploying WebGL Content. Available at: https://docs.unity3d.com/2020.1/Documentation/Manual/webgl-deploying.html  
+- **Valve Corporation. (2026)** Steam Hardware & Software Survey – February 2026. Available at: https://store.steampowered.com/hwsurvey  
+- **Video Games Europe. (n.d.)** PEGI. Available at: https://www.videogameseurope.eu/pegi-the-european-content-rating-system/  
+- **Wikipedia. (2024)** Zeus. Available at: https://en.wikipedia.org/wiki/Zeus
